@@ -7,7 +7,7 @@
     "util",
     "utility"
   ],
-  "version": "2.88.3",
+  "version": "2.89.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/finlyncerp/com.finlync.api.commons.git",
