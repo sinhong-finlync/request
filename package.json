@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "@finlyncerp/request",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
@@ -7,16 +7,18 @@
     "util",
     "utility"
   ],
-  "version": "2.88.1",
-  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "version": "2.88.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/request/request.git"
+    "url": "git://github.com/finlyncerp/com.finlync.api.commons.git",
+    "directory": "secure-ls"
   },
+  "author": "Lim Sin Hong",
+  "license": "ISC",
   "bugs": {
-    "url": "http://github.com/request/request/issues"
+    "url": "https://github.com/finlyncerp/com.finlync.api.commons/issues"
   },
-  "license": "Apache-2.0",
+  "homepage": "https://github.com/finlyncerp/com.finlync.api.commons#readme",
   "engines": {
     "node": ">= 6"
   },
